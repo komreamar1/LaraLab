@@ -13,6 +13,13 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+# creating a welcome group 
+
+
 Route::get('/', function () {
     return view('welcome');
+});
+
+Route::get('/documentation',function(){
+    return view('documentation');
 });

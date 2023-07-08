@@ -14,6 +14,17 @@ class ImagesController extends Controller
         //
     }
 
+    public function welcome($value='')
+    {
+        $metaData = ["👩🏽‍💻 Welcome's you...Online"];
+        return view('welcome')->with('meta',implode(',', $metaData));
+    }
+
+    public function documentation($value='')
+    {
+        return view('documentation');
+    }
+
     /**
      * Show the form for creating a new resource.
      */
@@ -24,7 +35,8 @@ class ImagesController extends Controller
 
     public function createSvgFromImage($path2image='')
     {
-        //
+        $path = storage_path($path2image);
+        return $path;
     }
     /*public function imgToSvg($path2image='')
     {

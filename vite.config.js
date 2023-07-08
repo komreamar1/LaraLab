@@ -1,23 +1,14 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
-import fs from 'fs';
-const host = 'my-app.test'; 
+import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
-    // server: { 
-    //     host, 
-    //     hmr: { host:'localhost' }, 
-    //     https: { 
-    //         key: fs.readFileSync(`/path/to/${host}.key`), 
-    //         cert: fs.readFileSync(`/path/to/${host}.crt`), 
-    //     }, 
-    // }, 
     plugins: [
         laravel({
-            input: ['resources/css/app.css', 'resources/js/app.js','resources/ts/app.tsx'],
-           // valetTls: 'my-app.test', 
+            input: 'resources/js/app.ts',
+            ssr: 'resources/js/ssr.ts',
             refresh: true,
-                }),
+        }),
         vue({
             template: {
                 transformAssetUrls: {
@@ -25,12 +16,6 @@ export default defineConfig({
                     includeAbsolute: false,
                 },
             },
-            }),
-        react(),
+        }),
     ],
-    resolve: {
-        alias: {
-            '@': '/resources/ts',
-        },
-    },
 });

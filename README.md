@@ -13,3 +13,10 @@ HOST=127.0.0.1 SUBNET=192.168.1.2:52966 APP_URL=http://localhost
 - PS php .\artisan serve
 - PS git status  ?no= npm run dev ?yes = npm run build
 
+
+## Freamwork
+- git branch -m main freamwork
+- git fetch origin
+- git branch -u origin/freamwork freamwork
+- git remote set-head origin -a
+

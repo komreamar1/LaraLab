@@ -18,9 +18,10 @@
                 setInterval(taggleTittleInnerHtml, 1000);
         </script>
         <!-- Styles -->
-        @viteReactRefresh
-        @vite('resources/act/app.tsx')
+        
            <body>
                
            </body>
+
+           <script src="dist/bundle.js" type="text/javascript" charset="utf-8" async defer></script>
 </html>

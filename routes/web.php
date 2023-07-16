@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\ReactDocumentationController;
+use App\Http\Controllers\ReactBankController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;
@@ -18,6 +19,7 @@ use Inertia\Inertia;
 */
 
 Route::get('/documentation',[ReactDocumentationController::class, 'app'])->name('react');
+Route::get('/bank',[ReactBankController::class, 'account'])->name('react');
 
 Route::get('/', function () {
     return Inertia::render('Welcome', [

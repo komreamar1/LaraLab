@@ -19,3 +19,5 @@ package-lock.json
 /.fleet
 /.idea
 /.vscode
+/.vs
+/.public

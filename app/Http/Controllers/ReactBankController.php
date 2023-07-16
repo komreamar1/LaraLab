@@ -15,7 +15,7 @@ class ReactBankController extends Controller
     }   
      public function account()
     {
-        return view('bank',['tittle'=>'🏦 District Central Bank 💴', 'meta' => "welcome's you  Mr amar komre..."]);
+        return view('bank',['tittle'=>'🏦 FEDERAL BANK  💴', 'meta' => "welcome's you  Mr amar komre..."]);
     }
 
     /**

@@ -59,29 +59,50 @@ defineProps<{
                                ℹ️
                             </div>
 
-                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Documentation</h2>
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">DOCUMENTATION</h2>
 
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laravel has wonderful documentation covering every aspect of the framework. Whether you
-                                are a newcomer or have prior experience with Laravel, we recommend reading our
-                                documentation from beginning to end.
+                                LARAVEL HAS WONDERFUL DOCUMENTATION COVERING EVERY ASPECT OF THE FRAMEWORK. WHETHER YOU
+                                ARE A NEWCOMER OR HAVE PRIOR EXPERIENCE WITH LARALAB, WE RECOMMEND READING OUR
+                                DOCUMENTATION WHEN YOU FIND ANY DIFICULTY .
                             </p>
+
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">SERVICE</h2>
+
+
+                            <pre class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+ -- host=127.0.0.1 subnet=192.168.1.2:52966 app_url=http://localhost
+                            </pre>   
+
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">NETSTAT</h2>
+                            <pre class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed"> 
+ -- command for reletivity system connection 
+                            </pre>
+
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Freamwork</h2>
+                            <pre class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed"> 
+    - git clone https://github.com/komreamar1/laraLab.git
+    - git branch -m main freamwork
+    - git fetch origin
+    - git branch -u origin/freamwork freamwork
+    - git remote set-head origin -a
+                            </pre>     
+
+                                <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">GUIDE-terminal</h2>
+                            <pre class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed"> 
+## How? to run PHP SERVER with LARAVEL application Freamwork
+- php artisan serve
+## How? to run VUE ADMIN controll with VITE application Freamwork
+- npm run dev
+## How? to run REACT USER controll with WEBPACK application Freamwork
+- npm run start
+
+                            </pre>
+
                         </div>
 
-                        <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke-width="1.5"
-                            class="self-center shrink-0 stroke-red-500 w-6 h-6 mx-6"
-                        >
-                            <path
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                                d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"
-                            />
-                        </svg>
+                        ⏭️
                     </a>
 
                     <a
@@ -98,28 +119,45 @@ defineProps<{
                               👮🏻
                             </div>
 
-                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Police</h2>
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">POLICE</h2>
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript
-                                development. Check them out, see for yourself, and massively level up your development
-                                skills in the process.
+                                THESE ARE TO REQUEST AND REQUIRE IN THE NAME OF THE PRESIDENT OF THE REPUBLIC OF INDIA .ALL THOSE TO WHOM IT MAY CONCERN TO ALLOW THE BEARER TO PASS FREELY WITHOUT LET OR HINDRANCE AND TO AFFORD HIM OR HER, EVERY ASSISTANCE AND PROTECTION OF WHICH HE OR SHE MAY STAND IN NEED.
                             </p>
+
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">REGISTRATION</h2>
+
+                            <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                                INDIAN CITIZENS RESIDENT ABROAD ARE ADVISED TO REGISTER THEMSELVES <u>AT THE NEAREST INDIAN MISSION/POST</u> AADHAAR
+                            </p>
+
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">CAUTION vs ACCOUNT</h2>
+
+                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                                THIS PASSPOST IS THE PROPERTY OF THE <u>GOVERNMENT OF INDIA</u> AADHAAR. ANY COMMUNICATION RECEIVED BY THE ACCOUNT HOLDER FROM THE PASSPORT AUTHORITY REGARDING THIS PASSPORT, INCLUDING <u>DEMAND FOR ITS SURRENDER</u> FEDERAL BANK ACCOUNT, SHOULD BE COMPLIED WITH IMMEDIATELY.
+                                 </p>
+                              <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                               <b>Q1.: THIS PASSPORT  <u> SHOULD NOT</u> SENT OUT OF ANY COUNTRY BY POST ?</b>
+                                <br>
+                                <b>ANS :.</b> this should be in the custody either of the account holder or <u>the government of india/the republic of india</u> it must not be <u>altered or mutilated/merrage</u> <u>in/out</u> any way.
+                                </p>
+                              <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                                <b>eg:</b> Loss, Theft Or Destruction Of This Passport Should Be Immediately Reported To The Nearest Passport Authority In India Or If The Account Holder Is Abroad. To The Nearest Indian Mission/post And To The
+                                Local Police Only After Exhaustive/beging Enquiries/police-counter Shall A duplicate/negetive/electronics passport/card/aadhaar Should Be Issued.
+
+                            </p>
+
+<br>
+                            <span>
+                                <b class="mt-2 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
+                                BY ORDER OF <br>
+                                THE PRESIDENT OF THE REPUBLIC OF INDIA
+                                <pre>(passport : V4904657)</pre>
+                            </b>
+                            </span>
                         </div>
 
-                        <svg
-                            xmlns="http://www.w3.org/2000/svg"
-                            fill="none"
-                            viewBox="0 0 24 24"
-                            stroke-width="1.5"
-                            class="self-center shrink-0 stroke-red-500 w-6 h-6 mx-6"
-                        >
-                            <path
-                                stroke-linecap="round"
-                                stroke-linejoin="round"
-                                d="M4.5 12h15m0 0l-6.75-6.75M19.5 12l-6.75 6.75"
-                            />
-                        </svg>
+                       ⏭
                     </a>
 
                     <a
@@ -133,12 +171,12 @@ defineProps<{
                                 🏦
                             </div>
 
-                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Bank</h2>
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">BANK</h2>
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laravel News is a community driven portal and newsletter aggregating all of the latest
-                                and most important news in the Laravel ecosystem, including new package releases and
-                                tutorials.
+                                LARAVEL NEWS IS A COMMUNITY DRIVEN PORTAL AND NEWSLETTER AGGREGATING ALL OF THE LATEST
+                                AND MOST IMPORTANT NEWS IN THE LARAVEL ECOSYSTEM, INCLUDING NEW PACKAGE RELEASES AND
+                                TUTORIALS.
                             </p>
                         </div>
 
@@ -167,10 +205,10 @@ defineProps<{
                                 🧪
                             </div>
 
-                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Dignosis</h2>
+                            <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">LABRETORY</h2>
 
                             <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-                                Laravel's robust library of first-party tools and libraries, such as
+                                LARAVEL'S ROBUST LIBRARY OF FIRST-PARTY TOOLS AND LIBRARIES, SUCH AS
                                 <a
                                     href="https://forge.laravel.com"
                                     class="underline hover:text-gray-700 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"
@@ -191,8 +229,8 @@ defineProps<{
                                     class="underline hover:text-gray-700 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"
                                     >Envoyer</a
                                 >
-                                help you take your projects to the next level. Pair them with powerful open source
-                                libraries like
+                                HELP YOU TAKE YOUR PROJECTS TO THE NEXT LEVEL. PAIR THEM WITH POWERFUL OPEN SOURCE
+                                LIBRARIES LIKE
                                 <a
                                     href="https://laravel.com/docs/billing"
                                     class="underline hover:text-gray-700 dark:hover:text-white focus:outline focus:outline-2 focus:rounded-sm focus:outline-red-500"

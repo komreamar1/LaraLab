@@ -8,6 +8,6 @@ class ReactDocumentationController extends Controller
 {
      public function app($value='')
     {
-        return view('documentation',['meta' => "welcome's you Mr valintine..."]);
+         return view('documentation',['tittle'=>'🧑🏼‍🔬 Scientific Universe 🍷', 'meta' => "welcome's you  Mr amar komre..."]);
     }
 }

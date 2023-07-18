@@ -35,6 +35,11 @@ HOST=127.0.0.1 SUBNET=192.168.1.2:52966 APP_URL=http://localhost
 ```
 - npm run start
 ```
+## why?
+```
+npm cache clean --force
+```
+
 
 
 

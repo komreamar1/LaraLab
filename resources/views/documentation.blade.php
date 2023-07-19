@@ -23,5 +23,5 @@
                
            </body>
 
-           <script src="dist/bundle.js" type="text/javascript" charset="utf-8" async defer></script>
+           <script src="resource/src/react-date-18-07-2023-mode-development.js" type="text/javascript" charset="utf-8" async defer></script>
 </html>

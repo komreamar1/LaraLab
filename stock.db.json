@@ -1,0 +1,126 @@
+{
+    "maserment/cup": {
+        "min": 30,
+        "max": 60
+    },
+    "bottol/ml": {
+        "mix": 750,
+        "beer": {
+            "max": 600
+        },
+        "afterDark": {
+            "pack/60/ml/$": 130,
+            "halp/30/ml/$": 075,
+        },
+        "signture": {
+            "rare": {
+                "pack/60/ml/$": 160,
+                "halp/30/ml/$": 090,
+            }
+        },
+        "royalChallenge": [
+            "MasterBlander"{
+                "pack/60/ml/$": 130,
+                "halp/30/ml/$": 75,
+            },
+           "AmericanPride" {	           		
+                "pack/60/ml/$": 150,
+                "halp/30/ml/$": 85,
+            }
+        ],
+        "magicMoment": {
+            "orange": {
+                "pack/60/ml/$": 130,
+                "halp/30/ml/$": 075,
+            },
+            "apple": {
+                "pack/60/ml/$": 130,
+                "halp/30/ml/$": 075,
+            },
+            "lemon": {
+                "pack/60/ml/$": 130,
+                "halp/30/ml/$": 075,
+            }
+        },
+        "acBlack": {
+            "pack/60/ml/$": 130,
+            "halp/30/ml/$": 070,
+        },
+        "McDowells": {
+            "No1": {
+                "pack/60/ml/$": 110,
+                "halp/30/ml/$": 065,
+            }
+        },
+        "Antiquity":{
+        	"Blue":{        		
+                "pack/60/ml/$": 170,
+                "halp/30/ml/$": 095,
+        	},
+        },
+        "KingHarry":{
+        	"DamnGoodScotch":{
+        		"pack/60/ml/$": 350,
+             	"halp/30/ml/$": 185,	
+        	}
+        },
+        "RedLabel":{        	
+        		"pack/60/ml/$": 350,
+             	"halp/30/ml/$": 185,	
+        },
+        "Teacher":{
+        	"HighlandCream":{        		
+        		"pack/60/ml/$": 350,
+             	"halp/30/ml/$": 185,	
+        	}
+        },
+        "Black&White":{
+        	"james":{        		
+        		"pack/60/ml/$": 350,
+             	"halp/30/ml/$": 185,	
+        	}
+        },
+        "VAT69":{
+        	"TheFamous":{        		
+        		"pack/60/ml/$": 350,
+             	"halp/30/ml/$": 185,	
+        	}
+        },
+        "GoldLabel":{
+        	"Reserve":{        		
+        		"pack/60/ml/$": 1000,
+             	"halp/30/ml/$": 510,	
+        	}
+        },
+        "BlackLabel":{
+        	"Reserve":{        		
+        		"pack/60/ml/$": 550,
+             	"halp/30/ml/$": 285,	
+        	}
+        },
+        "bombay":{
+        	"saphire":{        		
+        		"pack/60/ml/$": 550,
+             	"halp/30/ml/$": 285,	
+        	}
+        },
+        "BlackLabel":{
+        	"Reserve":{        		
+        		"pack/60/ml/$": 550,
+             	"halp/30/ml/$": 285,	
+        	}
+        },
+        "BlackLabel":{
+        	"Reserve":{        		
+        		"pack/60/ml/$": 550,
+             	"halp/30/ml/$": 285,	
+        	}
+        },
+        "BlackLabel":{
+        	"Reserve":{        		
+        		"pack/60/ml/$": 550,
+             	"halp/30/ml/$": 285,	
+        	}
+        },
+    }
+}

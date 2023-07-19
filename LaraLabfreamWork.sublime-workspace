@@ -1,0 +1,819 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console_log"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"log",
+				"console_log"
+			],
+			[
+				"font",
+				"font-weight-bold "
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"text-l",
+				"text-left "
+			],
+			[
+				"te",
+				"text-white "
+			],
+			[
+				"text-",
+				"text-capitalize "
+			],
+			[
+				"text-w",
+				"text-lowercase "
+			],
+			[
+				"bg",
+				"bg-dark "
+			],
+			[
+				"inpu",
+				"input-group-lg "
+			],
+			[
+				"wh",
+				"whitesmoke"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"pull",
+				"pull-10 "
+			],
+			[
+				"mr",
+				"mr-2 "
+			],
+			[
+				"flot",
+				"float-right "
+			],
+			[
+				"btn-s",
+				"btn-sm "
+			],
+			[
+				"co",
+				"container "
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"co-md-",
+				"col-md-4"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"vi",
+				"vite"
+			],
+			[
+				"v",
+				"v-model"
+			],
+			[
+				"php",
+				"phpinfo()"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"com",
+				"compact()"
+			],
+			[
+				"getele",
+				"getElementById"
+			],
+			[
+				"doc",
+				"documentation"
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 2319,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					9,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFoAAAAAAAAAWgAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"paste",
+					null,
+					"AQAAADgAAAAAAAAAWgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFkAAAAAAAAAWQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABeAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"paste",
+					null,
+					"AQAAAF4AAAAAAAAAcgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"paste",
+					null,
+					"AgAAAEgAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAA8AAABBcHAgRGVzY3JpcHRpb24",
+					"AQAAAAAAAAABAAAAVwAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "js1/package.json",
+			"settings":
+			{
+				"buffer_size": 206,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": ".je-project-settings/project_settings.json",
+			"settings":
+			{
+				"buffer_size": 371,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/Rust/Cargo.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust/Cargo.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Rust/Cargo.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"INSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"E",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"MD",
+				"Markdown HTML Preview"
+			],
+			[
+				"e",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"em",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"emoji",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"emo",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"emoj",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"EMO",
+				"Emoji: Insert Emoji"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"termin",
+				"ArcticTypescript: Terminate All Builds"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Snippet: input - number"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"prev",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pri",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"vue",
+				"Snippet: Object-Value-JS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Channel"
+			],
+			[
+				"config",
+				"Snippet: Config-package"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ngin",
+				"Set Syntax: Nginx Log"
+			],
+			[
+				"git cong",
+				"Set Syntax: Git Config"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/BIKASH/hira-palace-app",
+		"/C/Users/BIKASH/hira-palace-app/.je-project-settings"
+	],
+	"file_history":
+	[
+		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-keymap",
+		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/User/ts.sublime-build",
+		"/C/Users/BIKASH/hira-palace-app/package.json",
+		"/C/Users/BIKASH/hira-palace-app/counter.db.json",
+		"/C/Users/BIKASH/hira-palace-app/webpack.config.cjs",
+		"/C/Users/BIKASH/hira-palace-app/request/application.fax",
+		"/C/Users/BIKASH/hira-palace-app/db.json",
+		"/C/Users/BIKASH/hira-palace-app/resources/src/index.cjs",
+		"/C/Users/BIKASH/hira-palace-app/tsconfig.json",
+		"/C/Users/BIKASH/hira-palace-app/README.md",
+		"/C/Users/BIKASH/hira-palace-app/.babelrc",
+		"/C/Users/BIKASH/hira-palace-app/.eslintrc.js",
+		"/C/Users/BIKASH/hira-palace-app/resources/views/bank.blade.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/views/documentation.blade.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/src/App.tsx",
+		"/C/Users/BIKASH/hira-palace-app/ecosystem.config.json",
+		"/C/Users/BIKASH/hira-palace-app/resources/js/bootstrap.ts",
+		"/C/Users/BIKASH/hira-palace-app/resources/src/index.ts",
+		"/C/Users/BIKASH/hira-palace-app/nodemon.json",
+		"/C/Users/BIKASH/hira-palace-app/resources/src/index.tsx",
+		"/C/Users/BIKASH/hira-palace-app/app/Http/Controllers/ReactDocumentationController.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/js/Pages/Welcome.vue",
+		"/C/Users/BIKASH/hira-palace-app/app/Http/Controllers/ReactBankController.php",
+		"/C/Users/BIKASH/hira-palace-app/.gitignore",
+		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/ArcticTypescript/examples/basic_browser_project/tsconfig.json",
+		"/C/Users/BIKASH/hira-palace-app/public/dist/bundle.js.map",
+		"/C/Users/BIKASH/hira-palace-app/routes/web.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/src/index.js",
+		"/C/Users/BIKASH/hira-palace-app/tailwind.config.cjs",
+		"/C/Users/BIKASH/passbook/index.html",
+		"/C/Users/BIKASH/passbook/printer.hp.html",
+		"/C/Users/BIKASH/passbook/style.css",
+		"/C/Users/BIKASH/polticalProfile/profiles-7.html",
+		"/C/Users/BIKASH/hira-palace-app/package-lock.json",
+		"/C/Users/BIKASH/php-8.2.8-nts/php.ini",
+		"/C/Users/BIKASH/my-app/README.md",
+		"/C/Users/BIKASH/hira-palace-app/webpack.config.js",
+		"/C/Users/BIKASH/lab-report-system/src/index.js",
+		"/C/Users/BIKASH/lab-report-system/package.json",
+		"/C/Users/BIKASH/lab-report-system/webpack.config.js",
+		"/C/Users/BIKASH/hira-palace-app/resources/js/Pages/Profile/Partials/UpdateProfileInformationForm.vue",
+		"/C/Users/BIKASH/hira-palace-app/resources/js/Pages/Profile/Partials/UpdatePasswordForm.vue",
+		"/C/Users/BIKASH/hira-palace-app/vite.config.js",
+		"/C/Users/BIKASH/amar/a",
+		"/C/Users/BIKASH/hira-palace-app/resources/act/app.jsx",
+		"/C/Users/BIKASH/my-app/tsconfig.json",
+		"/C/Users/BIKASH/my-app/package.json",
+		"/C/Users/BIKASH/hira-palace-app/app/Http/Controllers/ActController.php",
+		"/C/Users/BIKASH/polticalProfile/planet/earth/contry/INDIA/dist/CHHATTISGARH/state/KANKER/poltical-speach.txt",
+		"/C/Users/BIKASH/nginx-1.24.0/conf/nginx.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/HP/Desktop/AMARKOMR",
+		"/C/Users/BIKASH/hira-palace-app/.env",
+		"/C/Users/BIKASH/hira-palace-app/config/database.php",
+		"/C/Users/BIKASH/hira-palace-app/database/database.sqlite",
+		"/C/Users/BIKASH/hira-palace-app/bootstrap/app.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/js/app.js",
+		"/C/Users/BIKASH/hira-palace-app/resources/views/app.blade.php",
+		"/C/Users/BIKASH/hira-palace-app/app/Http/Controllers/ImagesController.php",
+		"/C/Users/BIKASH/hira-palace-app/app/Http/Controllers/Controller.php",
+		"/C/Users/BIKASH/hira-palace-app/resources/views/welcome.blade.php",
+		"/C/Users/HP/Downloads/GettyImages-144195186-56e1c4f43df78c5ba056a337.svg",
+		"/C/Users/BIKASH/hira-palace-app/docker-compose.yml",
+		"/C/Users/BIKASH/php-8.2.8-nts/php.ini-development",
+		"/C/Users/BIKASH/nginx-1.24.0/html/index.php",
+		"/C/Users/BIKASH/nginx-1.24.0/README.md",
+		"/C/Users/BIKASH/nginx-1.24.0/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/Users/BIKASH/nginx-1.24.0/html/index.html",
+		"/C/Users/BIKASH/nginx-1.24.0/docs/README",
+		"/C/Users/BIKASH/nginx-1.24.0/html/home/index.php",
+		"/C/Users/BIKASH/amar/README.md",
+		"/C/Users/BIKASH/nginx-1.24.0/html/ui/da.js",
+		"/C/Users/BIKASH/amar/assets/images/logo.svg",
+		"/C/Users/BIKASH/nginx-1.24.0/logs/error.log",
+		"/C/Users/BIKASH/polticalProfile/basic.html",
+		"/C/Users/BIKASH/amar/index.html",
+		"/C/Users/BIKASH/amar",
+		"/C/Users/BIKASH/nginx-1.24.0/contrib/README",
+		"/C/Users/BIKASH/CITIZEN-CG/README.md",
+		"/C/Users/BIKASH/CITIZEN-CG/.gitignore"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"version"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\BIKASH\\hira-palace-app"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2319,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								289,
+								289
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js1/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								187,
+								191
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".je-project-settings/project_settings.json",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 306.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "Packages/Rust/Cargo.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"passbook\\index.html"
+			],
+			[
+				"vite.config.js",
+				"hira-palace-app\\vite.config.js"
+			],
+			[
+				"UpdatePasswordForm",
+				"hira-palace-app\\resources\\js\\Pages\\Profile\\Partials\\UpdatePasswordForm.vue"
+			],
+			[
+				"app.b",
+				"hira-palace-app\\resources\\views\\app.blade.php"
+			],
+			[
+				"app.",
+				"hira-palace-app\\bootstrap\\app.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"last_automatic_layout":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		]
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}

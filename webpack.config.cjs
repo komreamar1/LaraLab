@@ -116,7 +116,6 @@ module.exports = [{
             quiet: false
         }),
         new SourceMapDevToolPlugin({
-            filename: 'sourcemaps/application.map',
             append: false,
             fileContext: 'public',
             //append: '\n//# sourceMappingURL=https://example.com/sourcemap/[url]',

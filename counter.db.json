@@ -7,60 +7,59 @@
         "Signature": 1,
         "Antyquity Blue": 3,
     },
-    "counter":{
-    	"m`Donalls No.1":{
-    		"bottol":4,
-    		"oppened":"30%",
-    	},
-    	"megic Moment":{
-    		"bottol":3,
-    		"oppened":"90%"
-    	},
-    	"Techers 50":{
-    		"bottol":2,
-    		"oppened":"30%"
-    	},	
-    	"After Dark":{
-    		"bottol":1,
-    		"oppened":"60%"
-    	},	
-    	"Ac Black":{
-    		"bottol":3,
-    		"oppened":"60%"
-    	},	
-    	"Royal Chalange":{
-    		"bottol":2,
-    		"oppened":"30%"
-    	},
-    	"Techers 50":{
-    		"bottol":2,
-    		"oppened":"50%"
-    	},
-    	"Signature":{
-    		"bottol":4,
-    		"oppened":"50%"
-    	},
-    	"Royal Stage":{
-    		"bottol":1,
-    		"oppened":"20%"
-    	},
-    	"Antyquity Blue":{
-    		"bottol":4,
-    		"oppened":"50%"
-    	},
-    	"VAT69":{
-    		"bottol":1
-    	},
-		"Black & White":{
-		    		"bottol":2
-		 },
-		 "kings heri":{
-		    		"bottol":2
-		 },
-		 "bombay c":{
-		    		"bottol":1,
-		    		"oppened":"40%"
-		 }
-
+    "counter": {
+        "m`Donalls No.1": {
+            "bottol": 4,
+            "oppened": "30%",
+        },
+        "megic Moment": {
+            "bottol": 3,
+            "oppened": "90%"
+        },
+        "Techers 50": {
+            "bottol": 2,
+            "oppened": "30%"
+        },
+        "After Dark": {
+            "bottol": 1,
+            "oppened": "60%"
+        },
+        "Ac Black": {
+            "bottol": 3,
+            "oppened": "60%"
+        },
+        "Royal Chalange": {
+            "bottol": 2,
+            "oppened": "30%"
+        },
+        "Techers 50": {
+            "bottol": 2,
+            "oppened": "50%"
+        },
+        "Signature": {
+            "bottol": 4,
+            "oppened": "50%"
+        },
+        "Royal Stage": {
+            "bottol": 1,
+            "oppened": "20%"
+        },
+        "Antyquity Blue": {
+            "bottol": 4,
+            "oppened": "50%"
+        },
+        "VAT69": {
+            "bottol": 1
+        },
+        "Black & White": {
+            "bottol": 2
+        },
+        "kings heri": {
+            "bottol": 2
+        },
+        "bombay c": {
+            "bottol": 1,
+            "oppened": "40%"
+        }
     }
 }

@@ -1,10 +1,11 @@
+# About Config 
 ## Service
 
 HOST=127.0.0.1 SUBNET=192.168.1.2:52966 APP_URL=http://localhost
 
 
 ## netstat
- 
+
  -- command for reletivity system connection 
 
 ## Document
@@ -40,6 +41,12 @@ HOST=127.0.0.1 SUBNET=192.168.1.2:52966 APP_URL=http://localhost
 npm cache clean --force
 ```
 
+# About project with Sublime Text
+- [project].sublime-project
+- .je-project-settings
 
 
+# About project with vsCode
+- ?
+- ?
 

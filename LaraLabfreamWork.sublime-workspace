@@ -159,121 +159,73 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 2319,
+				"buffer_size": 2320,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			},
-			"undo_stack":
-			[
-				[
-					9,
-					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAFoAAAAAAAAAWwAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					10,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFoAAAAAAAAAWgAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAWwAAAAAAAABbAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					17,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAADMAAAAAAAAANAAAAAAAAAAAAAAANAAAAAAAAAA4AAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAMwAAAAAAAAAzAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					18,
-					1,
-					"paste",
-					null,
-					"AQAAADgAAAAAAAAAWgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAOAAAAAAAAAA4AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					20,
-					1,
-					"left_delete",
-					null,
-					"AQAAAFkAAAAAAAAAWQAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAWgAAAAAAAABaAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					37,
-					1,
-					"insert",
-					{
-						"characters": "\n"
-					},
-					"AgAAAFkAAAAAAAAAWgAAAAAAAAAAAAAAWgAAAAAAAABeAAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAWQAAAAAAAABZAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					38,
-					1,
-					"paste",
-					null,
-					"AQAAAF4AAAAAAAAAcgAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					53,
-					1,
-					"paste",
-					null,
-					"AgAAAEgAAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADwAAAAAAAAAA8AAABBcHAgRGVzY3JpcHRpb24",
-					"AQAAAAAAAAABAAAAVwAAAAAAAABIAAAAAAAAAAAAAAAAAPC/"
-				]
-			]
+			}
 		},
 		{
-			"file": "js1/package.json",
+			"contents": "Microsoft Windows [Version 10.0.22621.1848]                                                         \n(c) Microsoft Corporation. All rights reserved.                                                     \n                                                                                                    \nC:\\Users\\BIKASH\\hira-palace-app>",
 			"settings":
 			{
-				"buffer_size": 206,
-				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"buffer_size": 335,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
 			},
 			"undo_stack":
 			[
 				[
 					4,
 					1,
-					"insert",
-					{
-						"characters": " "
-					},
-					"AQAAAJQAAAAAAAAAlQAAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAlAAAAAAAAACUAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					5,
-					1,
-					"left_delete",
+					"terminus_render",
 					null,
-					"AQAAAJQAAAAAAAAAlAAAAAAAAAABAAAAIA",
-					"AQAAAAAAAAABAAAAlQAAAAAAAACVAAAAAAAAAAAAAAAAAPC/"
+					"DAAAAAAAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAGUAAAAAAAAAlAAAAAAAAAAAAAAAlAAAAAAAAADJAAAAAAAAAAAAAADJAAAAAAAAAMoAAAAAAAAAAAAAAMoAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAAAuAQAAAAAAAAAAAAAuAQAAAAAAAC8BAAAAAAAAAAAAAC8BAAAAAAAATwEAAAAAAAAAAAAATwEAAAAAAACTAQAAAAAAAAAAAABPAQAAAAAAAE8BAAAAAAAARAAAACAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		},
 		{
-			"file": ".je-project-settings/project_settings.json",
+			"contents": "Microsoft Windows [Version 10.0.22621.1848]                                                         \n(c) Microsoft Corporation. All rights reserved.                                                     \n                                                                                                    \nC:\\Users\\BIKASH\\hira-palace-app>",
 			"settings":
 			{
-				"buffer_size": 371,
-				"line_ending": "Windows"
-			}
+				"buffer_size": 335,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					2,
+					"terminus_render",
+					null,
+					"KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAEAAAAKBwAAAAAAAAAHAAAAAAAAAAEAAAAKBgAAAAAAAAAGAAAAAAAAAAEAAAAKBQAAAAAAAAAFAAAAAAAAAAEAAAAKBAAAAAAAAAAEAAAAAAAAAAEAAAAKAwAAAAAAAAADAAAAAAAAAAEAAAAKAgAAAAAAAAACAAAAAAAAAAEAAAAKAQAAAAAAAAABAAAAAAAAAAEAAAAKAAAAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADKAAAAAAAAAAAAAADKAAAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAABPAQAAAAAAAAAAAABPAQAAAAAAAJMBAAAAAAAAAAAAAE8BAAAAAAAATwEAAAAAAABEAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"contents": "Microsoft Windows [Version 10.0.22621.1848]                                                         \n(c) Microsoft Corporation. All rights reserved.                                                     \n                                                                                                    \nC:\\Users\\BIKASH\\hira-palace-app>",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Windows",
+				"name": "Command Prompt",
+				"scratch": true
+			},
+			"undo_stack":
+			[
+				[
+					2,
+					2,
+					"terminus_render",
+					null,
+					"KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAwAAAAAAAAAEAAAAAAAAAAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABgAAAAAAAAAAAAAABgAAAAAAAAAHAAAAAAAAAAAAAAAHAAAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACQAAAAAAAAAAAAAACAAAAAAAAAAIAAAAAAAAAAEAAAAKBwAAAAAAAAAHAAAAAAAAAAEAAAAKBgAAAAAAAAAGAAAAAAAAAAEAAAAKBQAAAAAAAAAFAAAAAAAAAAEAAAAKBAAAAAAAAAAEAAAAAAAAAAEAAAAKAwAAAAAAAAADAAAAAAAAAAEAAAAKAgAAAAAAAAACAAAAAAAAAAEAAAAKAQAAAAAAAAABAAAAAAAAAAEAAAAKAAAAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAAArAAAAAAAAAAAAAAArAAAAAAAAAGQAAAAAAAAAAAAAAGQAAAAAAAAAZQAAAAAAAAAAAAAAZQAAAAAAAACUAAAAAAAAAAAAAACUAAAAAAAAAMkAAAAAAAAAAAAAAMkAAAAAAAAAygAAAAAAAAAAAAAAygAAAAAAAADKAAAAAAAAAAAAAADKAAAAAAAAAC4BAAAAAAAAAAAAAC4BAAAAAAAALwEAAAAAAAAAAAAALwEAAAAAAABPAQAAAAAAAAAAAABPAQAAAAAAAJMBAAAAAAAAAAAAAE8BAAAAAAAATwEAAAAAAABEAAAAICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "Packages/Rust/Cargo.sublime-build",
@@ -452,9 +404,11 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 130.0,
 		"history":
 		[
+			"dir",
+			"ls"
 		]
 	},
 	"distraction_free":
@@ -473,23 +427,26 @@
 	],
 	"file_history":
 	[
+		"/C/Users/BIKASH/hira-palace-app/ecosystem.config.json",
+		"/C/Users/BIKASH/hira-palace-app/package-lock.json",
+		"/C/Users/BIKASH/hira-palace-app/package.json",
+		"/C/Users/BIKASH/hira-palace-app/README.md",
+		"/C/Users/BIKASH/hira-palace-app/.je-project-settings/project_details.json",
+		"/C/Users/BIKASH/hira-palace-app/js1/package.json",
 		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/Terminus/Default.sublime-keymap",
 		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/User/Default (Windows).sublime-keymap",
 		"/C/Users/HP/AppData/Roaming/Sublime Text/Packages/User/ts.sublime-build",
-		"/C/Users/BIKASH/hira-palace-app/package.json",
 		"/C/Users/BIKASH/hira-palace-app/counter.db.json",
 		"/C/Users/BIKASH/hira-palace-app/webpack.config.cjs",
 		"/C/Users/BIKASH/hira-palace-app/request/application.fax",
 		"/C/Users/BIKASH/hira-palace-app/db.json",
 		"/C/Users/BIKASH/hira-palace-app/resources/src/index.cjs",
 		"/C/Users/BIKASH/hira-palace-app/tsconfig.json",
-		"/C/Users/BIKASH/hira-palace-app/README.md",
 		"/C/Users/BIKASH/hira-palace-app/.babelrc",
 		"/C/Users/BIKASH/hira-palace-app/.eslintrc.js",
 		"/C/Users/BIKASH/hira-palace-app/resources/views/bank.blade.php",
 		"/C/Users/BIKASH/hira-palace-app/resources/views/documentation.blade.php",
 		"/C/Users/BIKASH/hira-palace-app/resources/src/App.tsx",
-		"/C/Users/BIKASH/hira-palace-app/ecosystem.config.json",
 		"/C/Users/BIKASH/hira-palace-app/resources/js/bootstrap.ts",
 		"/C/Users/BIKASH/hira-palace-app/resources/src/index.ts",
 		"/C/Users/BIKASH/hira-palace-app/nodemon.json",
@@ -507,7 +464,6 @@
 		"/C/Users/BIKASH/passbook/printer.hp.html",
 		"/C/Users/BIKASH/passbook/style.css",
 		"/C/Users/BIKASH/polticalProfile/profiles-7.html",
-		"/C/Users/BIKASH/hira-palace-app/package-lock.json",
 		"/C/Users/BIKASH/php-8.2.8-nts/php.ini",
 		"/C/Users/BIKASH/my-app/README.md",
 		"/C/Users/BIKASH/hira-palace-app/webpack.config.js",
@@ -557,7 +513,7 @@
 	],
 	"find":
 	{
-		"height": 39.3333333333
+		"height": 27.3333333333
 	},
 	"find_in_files":
 	{
@@ -602,73 +558,11 @@
 				{
 					"buffer": 0,
 					"file": "package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2319,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								289,
-								289
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "js1/package.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 206,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								187,
-								191
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"stack_multiselect": false,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": ".je-project-settings/project_settings.json",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 371,
+						"buffer_size": 2320,
 						"regions":
 						{
 						},
@@ -682,8 +576,257 @@
 						"settings":
 						{
 							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "C:\\Users\\BIKASH\\hira-palace-app",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "C:\\Users\\BIKASH\\hira-palace-app",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"__vi_external_disable": true,
+							"auto_complete": false,
+							"auto_complete_commit_on_tab": false,
+							"bracket_highlighter.clone_locations":
+							{
+							},
+							"bracket_highlighter.ignore": true,
+							"color_scheme": "Terminus.hidden-color-scheme",
+							"default_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"draw_centered": false,
+							"draw_indent_guides": false,
+							"draw_unicode_white_space": false,
+							"draw_white_space": "none",
+							"gutter": false,
+							"highlight_line": false,
+							"is_widget": true,
+							"result_base_dir": "C:\\Users\\BIKASH\\hira-palace-app",
+							"result_file_regex": null,
+							"result_line_regex": null,
+							"rulers":
+							[
+								500
+							],
+							"scroll_past_end": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"terminus_view": true,
+							"terminus_view.args":
+							{
+								"auto_close": true,
+								"cancellable": false,
+								"cmd":
+								[
+									"cmd.exe"
+								],
+								"cwd": "C:\\Users\\BIKASH\\hira-palace-app",
+								"default_title": "Command Prompt",
+								"env":
+								{
+									"TERMINUS_SUBLIME": "1",
+									"TERM_PROGRAM": "Terminus-Sublime"
+								},
+								"file_regex": null,
+								"line_regex": null,
+								"panel_name": "Terminus",
+								"show_in_panel": null,
+								"tag": null,
+								"timeit": false,
+								"title": null
+							},
+							"terminus_view.cancellable": false,
+							"terminus_view.natural_keyboard": true,
+							"terminus_view.tag": null,
+							"terminus_view.viewport_y": 0.0,
+							"word_wrap": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -713,6 +856,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -723,6 +872,7 @@
 		"rows":
 		[
 			0.0,
+			0.636114160263,
 			1.0
 		]
 	},
@@ -796,21 +946,12 @@
 	"selected_group": 0,
 	"settings":
 	{
-		"last_automatic_layout":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		]
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 235.0,
+	"side_bar_width": 314.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

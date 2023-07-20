@@ -1,8 +1,8 @@
 {
-    "private": false, 
+    "private": false,
     "name": "a-laraLab-app",
     "description": "Laravel is a PHP web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
-    "version": "0.0.0",
+    "version": "20.29.07.2023",
     "type": "module",
     "scripts": {
         "dev": "vite",
@@ -63,5 +63,8 @@
             "last 1 firefox version",
             "last 1 safari version"
         ]
+    },
+    "dependencies": {
+        "update": "^0.7.4"
     }
 }

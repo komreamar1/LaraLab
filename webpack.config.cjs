@@ -2,7 +2,7 @@ const path = require('path');
 const webpack = require('webpack');
 
 const ROOT = path.resolve( __dirname, './resources/src' );
-const DESTINATION = path.resolve( __dirname, 'dist' );
+const DESTINATION = path.resolve( __dirname, 'public/resources/src' );
 
 module.exports = {
     context: ROOT,
@@ -10,7 +10,7 @@ module.exports = {
     entry: {
         'main': 'index.ts'
     },
-    
+
     output: {
         filename: '[name].bundle.js',
         path: DESTINATION

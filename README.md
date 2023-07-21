@@ -50,3 +50,9 @@ npm cache clean --force
 - ?
 - ?
 
+# Virtual Environment
+- metavarse with python3
+- please unblock my parcianal account
+- clear my due and bank statement . i ll work 
+- hourly $ currency  ₹/€ will batter
+- 750$ = 1hr 
